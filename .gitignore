@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage directories
+coverage/
+
+# Miscellaneous
+.DS_Store
+.idea/
+.vscode/
